@@ -2,7 +2,7 @@
 //  SlidingPanelsViewController.h
 //
 //  Created by Suraj Thomas K on 3/30/15.
-//  Copyright (c) 2015 No Heaven Promised. All rights reserved.
+//  2015 No Heaven Promised
 //
 
 #import <UIKit/UIKit.h>
