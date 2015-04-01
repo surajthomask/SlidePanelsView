@@ -6,7 +6,6 @@
 //
 
 #import "SlidingPanelsViewController.h"
-#import "SlidingHeader.h"
 
 float const kHeaderHeight = 48.0f;
 
