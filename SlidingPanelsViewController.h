@@ -49,10 +49,6 @@
  *  UIImageView, that acts as the background of header view
  */
 @property (nonatomic, readonly) UIImageView *headerBackground;
-/**
- *  Flag to use pan gesture. If YES, will track touch movement and move the views accordingly. If NO, will use swipe gesture. Default is NO.
- */
-@property (nonatomic, readwrite) BOOL usePanGesture;
 
 /**
  *  Method to add a new view controller at the right most end
