@@ -5,7 +5,7 @@ iOS Helper class to implement sliding panels view.
 
 1. Import the file SlidePanelsViewController.h
 2. Subclass or create an instance of the SlidePanelsViewController.
-3. Add view controllers that needs to be displayed in sliding panels.
+3. Add view controllers that needs to be displayed in sliding panels using methods in SlidePanelsViewController.h
 4. For header button images, add images with index of view controller as name to the project. If not added, indices will be displayed as header button title.
 
 Feel free to go through source code to understand it better.
